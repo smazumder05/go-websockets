@@ -3,7 +3,7 @@ Go-Websockets
 
 An implementation of [ Websockets protocol ](http://www.rfc-editor.org/rfc/rfc6455.txt)in [Go](http://golang.org/). The main objective is to learn low level socket programming in Go and familiarize myself with the websockets protocol.
 
-In due course, I plan to use this library in a mobile platform project that I am currently working on.
+In due course, I plan to use this library for a mobile platform project that I am also currently working on.
 
 
 ### Protocol Compliance
